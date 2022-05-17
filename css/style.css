@@ -1,0 +1,134 @@
+body {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.64), rgba(255, 255, 255, 0.64)), url(../images/edu5_99728.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #020237;
+}
+
+.centru {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+
+.textbox {
+    border: 2px solid #020237;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 3%;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgba(201, 225, 232, 0.567);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tabel a:link,
+.tabel a:visited {
+    background-color: #8cb1dee2;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.tabel a:hover,
+.tabel a:active {
+    background-color: rgb(70, 127, 168);
+}
+
+.tabel {
+    width: 55%;
+    margin: 0 auto;
+}
+
+.home {
+    height: 35px;
+    color: rgb(2, 2, 55);
+}
+
+.h {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    cursor: pointer;
+}
+
+.imagine {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.medis {
+    width: 65%;
+    margin: auto;
+}
+
+.medis td {
+    padding: 5px;
+}
+
+.liste {
+    margin-left: 17px;
+}
+
+.font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.medisi {
+    width: 35%;
+    border: 2px black solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #c5d3e8b6;
+}
+
+.altfont {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.imagmed img {
+    height: 350px;
+    padding: 10px;
+}
+
+.imagmed2 img {
+    height: 270px;
+    padding: 10px;
+    margin-left: 3%;
+}
+
+.medisi2 {
+    width: 46%;
+    border: 2px black solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #c5d3e8b6;
+    margin-bottom: 15px;
+}
+
+.imagmed3 {
+    width: 100%;
+    text-align: center;
+}
+
+.imagmed3 img {
+    height: 240px;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+.imagmedf img {
+    height: 220px;
+    padding: 10px;
+    opacity: 1;
+    -webkit-transition: transform 2s;
+    transition: transform 2s;
+}
+
+#salut {
+    margin-left: 60px;
+}
